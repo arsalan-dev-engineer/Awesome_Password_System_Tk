@@ -29,3 +29,16 @@ Open CMD and type in the following command:
     pip install tk
     
 Now you can run this program 🏆
+
+-----
+
+# Screenshots
+
+
+![Login Main](pictures/login_main.png)
+
+
+![Login Fail](pictures/login_fail.png)
+
+
+![Login Success](pictures/login_success.png)
